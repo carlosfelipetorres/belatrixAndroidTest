@@ -45,6 +45,7 @@ Clases:
     Se declara la clase CustomStepper que recibe los pasos necesarios que se van a mostrar en un custom fragment container cada uno.
     
 ## 2. Crea un shake action en android y pon el código.
+[Link a codigo](2nd_excercice/ShakerApplication/)
 
 ## 3. Explica cómo organizas en base a tu experiencia un proyecto en Android utilizando MVP e implementando Clean Architecture, menciona los paquetes que utilizarías y la distribución de módulos.
 
